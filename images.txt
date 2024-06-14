@@ -1,6 +1,20 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 xhofe/alist:latest
+xiaoyaliu/alist
+ubuntu
+debian
+kasmweb/nginx
+zzsrv/openwrt
+yangchuansheng/ip_derper
+bellamy/wallos
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/arm64 ubuntu
+--platform=linux/arm64 debian
+--platform=linux/arm64 kasmweb/nginx
+--platform=linux/arm64 xhofe/alist
+--platform=linux/arm64 zzsrv/openwrt
+--platform=linux/arm64 yangchuansheng/ip_derper
+--platform=linux/arm64 bellamy/wallos
