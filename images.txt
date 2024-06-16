@@ -16,5 +16,5 @@ bellamy/wallos
 --platform=linux/arm64 kasmweb/nginx
 --platform=linux/arm64 xhofe/alist
 #--platform=linux/arm64 zzsrv/openwrt
---platform=linux/arm64 yangchuansheng/ip_derper
+#--platform=linux/arm64 yangchuansheng/ip_derper
 --platform=linux/arm64 bellamy/wallos
